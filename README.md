@@ -32,7 +32,7 @@ To explore this, we:
 - Measure statistical relationships between sentiment and returns
 
 ---
-
+```
 ## 📁 Project Structure
 news-sentiment-analysis/
 │
