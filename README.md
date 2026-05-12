@@ -166,7 +166,7 @@ A better approach is combining signals:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/news-sentiment-analysis.git
+git clone https://github.com/RahemetGisho/news-sentiment-analysis.git
 cd news-sentiment-analysis
 
 # Create virtual environment
