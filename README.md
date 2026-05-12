@@ -47,6 +47,7 @@ news-sentiment-analysis/
 │
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
+```
 
 
 ---
